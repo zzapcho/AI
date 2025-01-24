@@ -18,8 +18,8 @@
     pip install -r requirements.txt
 
 
-    
-   스페이스바 
+     
+   스페이스바  
 
 
    
@@ -28,10 +28,10 @@
     python app.py
 
 
-   3. 프로그램 종료 (수동)
+   3. 프로그램 종료 (수동) 
 
 
-      CTRL + C
+      CTRL + C 
 
 
 
