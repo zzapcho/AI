@@ -10,7 +10,7 @@
 
 ## 사용 방법
 
-1. <a href="https://drive.google.com/drive/folders/1ZF6WTwL5VQhGArJgXfCv0xaRfHM9QZky">프로그램 다운로드</a>
+1. <a href="https://github.com/zzapcho/AI/archive/refs/heads/main.zip">프로그램 다운로드</a>
 3. 파이썬 3.7.x 이상 다운로드
 4. cd 프로그램 위치
 5. 프로그램 실행
