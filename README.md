@@ -7,3 +7,12 @@
 1. 필요한 패키지 설치
    ```bash
    pip install -r requirements.txt
+
+## 사용 방법
+
+1. 프로그램 다운로드
+2. 파이썬 3.7.x 이상 다운로드
+3. cd 프로그램 위치
+4. 프로그램 실행
+   ```bash
+   python app.py
